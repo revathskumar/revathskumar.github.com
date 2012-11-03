@@ -1,7 +1,9 @@
-twitter.github.com
+revathskumar.github.com
 ======
 
-The source code of http://twitter.github.com/
+Display for all the open source projects of mine.
+
+Adapted from twitter.github.com.
 
 LICENSE
 ------------

@@ -67,9 +67,10 @@ a:hover {
 
 #logo {
   width: 190px;
-  height: 64px;
+  height: 104px;
   margin: 15px 0 0 15px;
-  background: url("logo.png");
+
+  background: url("http://i653.photobucket.com/albums/uu253/revathskumar/logo/rsk.jpeg") no-repeat center top;
   text-indent: -99999px;
 }
 
